@@ -1,0 +1,130 @@
+.continuer {
+    width: 700px;
+    margin: auto;
+}
+
+.top {
+    display: flex;
+    flex-direction: column;
+}
+
+.toptitle {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.search-container{
+    margin: 0px;
+    display: flex;
+}
+
+.topmenu {
+    display: flex;
+    justify-content: space-around;
+}
+
+.leaf {
+    background-color: rgb(78, 180, 146);
+    width: 35px;
+}
+
+.cart {
+    width: 35px;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.upper {
+    display: flex;
+}
+
+.upperleft {
+    display: flex;
+    margin-right: 10px;
+}
+
+.Discovry {
+    background-color: rgb(78, 180, 146);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.imgs1 {
+    display: flex;
+}
+
+.upperRight {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.discandR {
+    display: flex;
+    justify-content: center;
+}
+
+.dis {
+    background-color: rgb(78, 180, 146);
+}
+
+.sooth {
+    background-color: black;
+    width: 50px;
+    background-color: rgb(78, 180, 146);
+}
+
+.Aloe {
+    display: flex;
+    background-color: rgb(78, 180, 146);
+    margin-top: 10px;
+    justify-content: center;
+}
+
+.text1,
+.text2,
+.text3 {
+    color: white;
+}
+
+.text1 {
+    margin: 20px;
+}
+
+.lower {
+    display: flex;
+    background-color: rgb(78, 180, 146);
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.l1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.images {
+    width: 90px;
+    border-radius: 50%;
+    padding: 10px;
+}
+.alert{
+    display: flex;
+    align-items: center;
+    border: 3px solid black;
+    background-color: aliceblue;
+    padding: 10px;
+    margin-top: -35px;
+}
+.accept{
+    background-color: rgb(78, 180, 146);
+    color: white;
+    width: 100px;
+    height: 30px;
+}
